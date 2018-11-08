@@ -17,6 +17,8 @@
     <string name="btn_ig">=</string>
     <string name="btn_divisao">/</string>
     <string name="btn_multiplicacao">*</string>
+    <string name="btn_inicio">inicio</string>
+    <string name="btn_calcular">Calculadora</string>
 
 
 </resources>
